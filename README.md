@@ -1,11 +1,10 @@
-# Project: Citi-Bike-Ridershare SQL Project
+# Building the Ridership Dataset
 
-# Description:
+A starter project for organizing the SQL work, data files, and supporting materials used to build a bike-share ridership dataset.
 
+## Folder Guide
 
-├── code/            eda.ipynb, preprocessing.ipynb, model.ipynb
-├── data/            your exported CSV lands here (Step 9)
-├── queries/         your final SQL lands here (Step 9)
-├── docs/            data dictionary, notes, supporting material
-├── README.md
-└── .gitignore
+- `sql/` — SQL scripts for creating tables, writing queries, and building the ridership dataset.
+- `data/` — Raw and cleaned data files used in the project.
+- `docs/` — Project notes, assignment instructions, and reference materials.
+- `output/` — Query results, exported tables, and other generated deliverables.
